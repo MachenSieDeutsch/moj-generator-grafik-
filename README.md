@@ -1,0 +1,1 @@
+# moj-generator-grafik-w
